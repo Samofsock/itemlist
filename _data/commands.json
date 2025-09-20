@@ -8,24 +8,6 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore"
-    },
-    "description": null,
-    "name": "hello",
-    "usage": "!hello",
-    "userLevel": "Moderator",
-    "shortcut": false,
-    "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
     "description": "Updates the current list of active viewers.",
@@ -1268,13 +1250,13 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitAddon - More Stuff"
+      "mod": "ToolkitCore"
     },
     "description": null,
-    "name": "Clean the Map",
-    "usage": "!cleanup",
-    "userLevel": "Anyone",
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
     "shortcut": false,
-    "defName": "cleanup"
+    "defName": "HelloWorld"
   }
 ]
