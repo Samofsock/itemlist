@@ -16883,7 +16883,211 @@
 		"price": 550,
 		"category": "Ranged weapons",
 		"defname": "VWEFT_Gun_RepeatingShotgun"
+	},
+	{
+		"abr": "ammobox",
+		"price": 225,
+		"category": "Furniture",
+		"defname": "VFES_AmmoCrate"
+	},
+	{
+		"abr": "anti-airturret",
+		"price": 1867,
+		"category": "Security",
+		"defname": "VFES_Turret_AntiAir"
+	},
+	{
+		"abr": "armoredturret",
+		"price": 650,
+		"category": "Security",
+		"defname": "VFES_Turret_ArmoredTurret"
+	},
+	{
+		"abr": "artillery",
+		"price": 2000,
+		"category": "Security",
+		"defname": "VFES_Turret_Artillery"
+	},
+	{
+		"abr": "automatedmortar",
+		"price": 1417,
+		"category": "Security",
+		"defname": "VFES_Turret_AutomatedMortar"
+	},
+	{
+		"abr": "ballista",
+		"price": 658,
+		"category": "Security",
+		"defname": "VFES_Turret_Ballista"
+	},
+	{
+		"abr": "beartrap",
+		"price": 241,
+		"category": "Security",
+		"defname": "VFES_BearTrap"
+	},
+	{
+		"abr": "catapult",
+		"price": 975,
+		"category": "Security",
+		"defname": "VFES_Turret_Catapult"
+	},
+	{
+		"abr": "cavalryspikes",
+		"price": 113,
+		"category": "Security",
+		"defname": "VFES_CavalrySpikes"
+	},
+	{
+		"abr": "chargecomplex",
+		"price": 2283,
+		"category": "Security",
+		"defname": "VFES_Complex_Charge"
+	},
+	{
+		"abr": "chargerailgun",
+		"price": 5158,
+		"category": "Security",
+		"defname": "VFES_Turret_ChargeRailgun"
+	},
+	{
+		"abr": "chargeturret",
+		"price": 1058,
+		"category": "Security",
+		"defname": "VFES_Turret_ChargeTurret"
+	},
+	{
+		"abr": "concealedbarrier",
+		"price": 67,
+		"category": "Security",
+		"defname": "VFES_ConcealedBarrier"
+	},
+	{
+		"abr": "concealedturret",
+		"price": 608,
+		"category": "Security",
+		"defname": "VFES_Turret_Concealed"
+	},
+	{
+		"abr": "doubleautocannonturret",
+		"price": 3283,
+		"category": "Security",
+		"defname": "VFES_Turret_AutocannonDouble"
+	},
+	{
+		"abr": "dugout",
+		"price": 12,
+		"category": "Security",
+		"defname": "VFES_Dugout"
+	},
+	{
+		"abr": "flamerturret",
+		"price": 667,
+		"category": "Security",
+		"defname": "VFES_Turret_Flame"
+	},
+	{
+		"abr": "grasercannoncomplex",
+		"price": 3425,
+		"category": "Security",
+		"defname": "VFES_Complex_GraserCannon"
+	},
+	{
+		"abr": "heavyincineratorcomplex",
+		"price": 942,
+		"category": "Security",
+		"defname": "VFES_Complex_HeavyIncineratorComplex"
+	},
+	{
+		"abr": "hmgcomplex",
+		"price": 667,
+		"category": "Security",
+		"defname": "VFES_Complex_Hmg"
+	},
+	{
+		"abr": "landmine",
+		"price": 249,
+		"category": "Security",
+		"defname": "VEFS_TrapLandmine"
+	},
+	{
+		"abr": "largerepulsor",
+		"price": 3708,
+		"category": "Security",
+		"defname": "VFES_LargeRepulsor"
+	},
+	{
+		"abr": "militaryturret",
+		"price": 667,
+		"category": "Security",
+		"defname": "VFES_Turret_MilitaryTurret"
+	},
+	{
+		"abr": "miniguncomplex",
+		"price": 1417,
+		"category": "Security",
+		"defname": "VFES_Complex_Minigun"
+	},
+	{
+		"abr": "minigunturret",
+		"price": 1967,
+		"category": "Security",
+		"defname": "VFES_Turret_Minigun"
+	},
+	{
+		"abr": "non-lethalturret",
+		"price": 500,
+		"category": "Security",
+		"defname": "VFES_Turret_NonLethalTurret"
+	},
+	{
+		"abr": "platform",
+		"price": 47,
+		"category": "Security",
+		"defname": "VFES_Platform"
+	},
+	{
+		"abr": "razorwire",
+		"price": 45,
+		"category": "Security",
+		"defname": "VFES_BarbedWire"
+	},
+	{
+		"abr": "researchboard",
+		"price": 167,
+		"category": "Misc",
+		"defname": "VFEM2_ResearchBoard"
+	},
+	{
+		"abr": "researchterminal",
+		"price": 53,
+		"category": "Misc",
+		"defname": "VQE_AncientResearchTerminal"
+	},
+	{
+		"abr": "ressurectorbelt",
+		"price": 2833,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_RessurectorBelt"
+	},
+	{
+		"abr": "ring",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertRing"
+	},
+	{
+		"abr": "riotarmor",
+		"price": 667,
+		"category": "Armor",
+		"defname": "VAE_Apparel_RiotArmor"
+	},
+	{
+		"abr": "riothelmet",
+		"price": 315,
+		"category": "Headgear",
+		"defname": "VAE_Apparel_RiotHelmet"
 	}
 	],
-	"total": 3088
+	"total": 3122
 }

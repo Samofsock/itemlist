@@ -6,6 +6,12 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
+  },
+  {
     "author": "Kikohi and Sarg",
     "name": "What's for sale?",
     "steamId": "3203277064",
@@ -248,8 +254,8 @@
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
-    "steamId": "3513789221",
-    "version": "11.0.5"
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "PeteTimesSix",
@@ -306,12 +312,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "The White Crayon",
-    "name": "Quarry (1.6 Temp)",
-    "steamId": "3513840161",
-    "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
-  },
-  {
     "author": "Lauriichan",
     "name": "PriorityMaster",
     "steamId": "1994006442",
@@ -333,7 +333,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.84"
+    "version": "1.6.88"
   },
   {
     "author": "Laura 7z",
@@ -484,6 +484,12 @@
     "name": "Vanilla Furniture Expanded - Farming",
     "steamId": "1957158779",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Sokyran and Taranchuk",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -648,22 +654,10 @@
     "version": "3.1.2"
   },
   {
-    "author": "Mehni",
-    "name": "Numbers (1.6 Temp)",
-    "steamId": "3513829896",
-    "version": "1.0.0+84bb098d16b26e403c811e34da99cf9a7752abc9"
-  },
-  {
     "author": "Chicken Plucker and Taranchuk",
     "name": "[RH2] CPERS: Arrest Here!",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.6+0045fe176c136602ec18a20cdff8b76726af8132"
   },
   {
     "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
@@ -744,6 +738,18 @@
     "version": null
   },
   {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0+a3d225b7a5f79e04ae28407275470deca71d2179"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry",
+    "steamId": "2007576583",
+    "version": "2.0.0+64b2402534e8f684fc7eb0f6701923c9fbb016d9"
+  },
+  {
     "author": "DerekBickley",
     "name": "[LTO] Colony Groups",
     "steamId": "2345493945",
@@ -813,7 +819,7 @@
     "author": "Oskar Potocki and Neronix17",
     "name": "Vanilla Races Expanded - Saurid",
     "steamId": "2880990495",
-    "version": "1.0.9296.33744"
+    "version": "1.0.9517.33439"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and RedMattis",
